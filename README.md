@@ -1,1 +1,1 @@
-Petstore index file only, this is for testing the CICD
+Petstore index file only, this is for testing the CICD using GitHub Actions
