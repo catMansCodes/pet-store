@@ -1,1 +1,1 @@
-Petstore index file with src and resorces, this is for testing the CICD using GitHub Actions.
+Petstore index file with src and resources, this is for testing the CICD using GitHub Actions.
